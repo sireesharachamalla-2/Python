@@ -1,6 +1,0 @@
-print("data1".isidentifier())
-print("1data".isidentifier())
-print("_data".isidentifier())
-print("data-1".isidentifier())
-print("True".isidentifier())
-print("totalSum".isidentifier())
