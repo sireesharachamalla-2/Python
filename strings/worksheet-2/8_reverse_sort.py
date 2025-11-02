@@ -1,0 +1,5 @@
+n=input()
+n=list(n)
+n.sort()
+r="".join(char for char in n)
+print(r[::-1])

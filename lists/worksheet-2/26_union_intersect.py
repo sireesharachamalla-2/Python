@@ -1,0 +1,6 @@
+l1=list(map(int,input().split()))
+l2=list(map(int,input().split()))
+union=list(set(l1) | set(l2))
+intersection=list(set(l1) & set(l2))
+print(union)
+print(intersection)

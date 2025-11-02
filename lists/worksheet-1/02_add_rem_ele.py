@@ -1,0 +1,15 @@
+fruits=["apple","banana","cherry"]
+print(fruits[2])
+fruits[1]="kiwi"
+print(fruits)
+print(len(fruits))
+fruits.append("orange")
+print(fruits)
+fruits.insert(2,"mango")
+print(fruits)
+fruits.remove("apple")
+print(fruits)
+fruits.pop()
+print(fruits)
+fruits.clear()
+print(fruits)

@@ -1,0 +1,6 @@
+t=(1,2,3,4)
+r=int(input())
+t=list(t)
+t.remove(r)
+t=tuple(t)
+print(t)

@@ -1,0 +1,6 @@
+n=int(input())
+s=input()
+n=str(n)
+s=int(s)
+print(n,type(n))
+print(s,type(s))

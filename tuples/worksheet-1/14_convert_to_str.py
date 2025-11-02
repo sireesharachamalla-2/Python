@@ -1,0 +1,6 @@
+t=tuple(input())
+print(t)
+s="".join(t)
+print(s)
+n=tuple(s)
+print(n)
